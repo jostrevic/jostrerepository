@@ -1,2 +1,1 @@
--Primera versión
-Segunda version
+Version incorrecta
